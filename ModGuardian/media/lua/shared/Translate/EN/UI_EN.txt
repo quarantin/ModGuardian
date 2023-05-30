@@ -1,0 +1,9 @@
+UI_EN = {
+	UI_ModGuardian_Title = "ModGuardian"
+	UI_ModGuardian_Text_PlayerBlacklist = "The author of %1 decided to blacklist you from using his mod."
+	UI_ModGuardian_Text_ServerBlacklist = "The author of %1 decided to blacklist your server from using his mod."
+	UI_ModGuardian_Text_ExclusiveServer = "The author of %1 decided to make his mod exclusive to a list of servers but yours is not allowed."
+	UI_ModGuardian_Text_Modpack = "The author of %1 doesn't want his mod in a modpack. You can still use this mod outside of a modpack, or you can create a Steam workshop collection as per: https://www.youtube.com/watch?v=5yFPuinN4wI"
+	UI_ModGuardian_Warning = "Your game won't work until you uninstall this mod."
+	UI_ModGuardian_Youtube_Link = "https://www.youtube.com/watch?v=5yFPuinN4wI"
+}
